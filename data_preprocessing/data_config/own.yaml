@@ -1,0 +1,8 @@
+name: own
+path: data/raw_data
+data_class: JointER
+split:
+  train: train.json
+  val: dev.json
+  test: test.json
+language: zh
